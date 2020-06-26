@@ -1,7 +1,9 @@
 # Global Earthquakes- Visualization
 A visualisation project which reads a json file and produces a visual view of global earthquakes from the past week
 
-<div align = "center"> Click ![here](siddhantv10.github.io/globalEarthquakes) to see the html. </div>
+<div align = "center"> 
+  Fot html click [here](https://siddhantv10.github.io/globalEarthquakes/). 
+</div>
 
 # Problem
 Showing the quantity and magnitude of earthquakes cumulatively over time is a challenge due to visual overlap.
