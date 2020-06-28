@@ -3,7 +3,7 @@ A visualisation project which reads a json file and produces a visual view of si
 
 <div align = "center"> 
   
-  [See working project here](https://siddhantv10.github.io/globalEarthquakes/ ). 
+ # [See working project here](https://siddhantv10.github.io/globalEarthquakes/ ). 
 
 </div>
 
